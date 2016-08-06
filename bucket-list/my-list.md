@@ -1,9 +1,10 @@
 # My Bucket List
 
-## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
- * Throw a surprise party for a loved one
+##Longterm Goals
+ * Become finacially stable 
+ * Purchase a home
+ * Get married
+ * Have children
 
 ## Travel and Adventure
  * Visit Antarctica
